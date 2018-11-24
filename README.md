@@ -1,4 +1,4 @@
-# assebliotheque
+# assembliotheque
 
 Inspired by https://github.com/dpryan79/ChromosomeMappings.
 
