@@ -1,0 +1,46 @@
+assembly-name:  GRCh37
+description:    Genome Reference Consortium Human Build 37
+organism-name:  Homo sapiens
+taxid:          9606
+bioproject:     PRJNA168
+submitter:      Genome Reference Consortium
+date:           2009-02-27
+synonyms:       hg19  
+assembly-type:  haploid-with-alt-loci
+release-type:   major
+assembly-level: Chromosome
+genome-representation: full
+genbank-assembly-id: GCA_000001405.1
+refseq-assembly-id: GCF_000001405.13
+refseq-assembly-and-genbank-assemblies-identical: yes
+assembly-units:
+  - genbank-unit-id: GCA_000001305.1
+    refseq-unit-id: GCF_000001305.13  
+    assembly-unit-name: Primary_Assembly
+  - genbank-unit-id: GCA_000001315.1
+    refseq-unit-id: GCF_000001315.1 
+    assembly-unit-name: ALT_REF_LOCI_1
+  - genbank-unit-id: GCA_000001325.1
+    refseq-unit-id: GCF_000001325.2 
+    assembly-unit-name: ALT_REF_LOCI_2
+  - genbank-unit-id: GCA_000001335.1
+    refseq-unit-id: GCF_000001335.1 
+    assembly-unit-name: ALT_REF_LOCI_3
+  - genbank-unit-id: GCA_000001345.1
+    refseq-unit-id: GCF_000001345.1 
+    assembly-unit-name: ALT_REF_LOCI_4
+  - genbank-unit-id: GCA_000001355.1
+    refseq-unit-id: GCF_000001355.1 
+    assembly-unit-name: ALT_REF_LOCI_5
+  - genbank-unit-id: GCA_000001365.1
+    refseq-unit-id: GCF_000001365.2 
+    assembly-unit-name: ALT_REF_LOCI_6
+  - genbank-unit-id: GCA_000001375.1
+    refseq-unit-id: GCF_000001375.1 
+    assembly-unit-name: ALT_REF_LOCI_7
+  - genbank-unit-id: GCA_000001385.1
+    refseq-unit-id: GCF_000001385.1 
+    assembly-unit-name: ALT_REF_LOCI_8
+  - genbank-unit-id: GCA_000001395.1
+    refseq-unit-id: GCF_000001395.1 
+    assembly-unit-name: ALT_REF_LOCI_9

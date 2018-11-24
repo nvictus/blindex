@@ -1,0 +1,122 @@
+assembly-name:  GRCh38
+description:    Genome Reference Consortium Human Build 38
+organism-name:  Homo sapiens
+taxid:          9606
+submitter:      Genome Reference Consortium
+date:           2013-12-17
+assembly-type:  haploid-with-alt-loci
+release-type:   major
+assembly-level: Chromosome
+genome-representation: full
+genbank-assembly-id: GCA_000001405.15 # (latest)
+refseq-assembly-id: GCF_000001405.26 # (species-representative latest)
+refaeq-assembly-and-genbank-assemblies-identical: yes
+assembly-units:
+  - genbank-unit-id: GCA_000001305.2	
+    refseq-unit-id: GCF_000001305.14	
+    assembly-unit-name: Primary Assembly
+  - genbank-unit-id: GCA_000001315.2
+    refseq-unit-id: 	GCF_000001315.2	
+    assembly-unit-name: ALT_REF_LOCI_1
+  - genbank-unit-id: GCA_000509915.1
+    refseq-unit-id: 	GCF_000509915.1	
+    assembly-unit-name: ALT_REF_LOCI_10
+  - genbank-unit-id: GCA_000509925.1
+    refseq-unit-id: 	GCF_000509925.1	
+    assembly-unit-name: ALT_REF_LOCI_11
+  - genbank-unit-id: GCA_000509935.1
+    refseq-unit-id: 	GCF_000509935.1	
+    assembly-unit-name: ALT_REF_LOCI_12
+  - genbank-unit-id: GCA_000509945.1
+    refseq-unit-id: 	GCF_000509945.1	
+    assembly-unit-name: ALT_REF_LOCI_13
+  - genbank-unit-id: GCA_000509955.1
+    refseq-unit-id: 	GCF_000509955.1	
+    assembly-unit-name: ALT_REF_LOCI_14
+  - genbank-unit-id: GCA_000509965.1
+    refseq-unit-id: 	GCF_000509965.1	
+    assembly-unit-name: ALT_REF_LOCI_15
+  - genbank-unit-id: GCA_000509975.1
+    refseq-unit-id: 	GCF_000509975.1	
+    assembly-unit-name: ALT_REF_LOCI_16
+  - genbank-unit-id: GCA_000509985.1
+    refseq-unit-id: 	GCF_000509985.1	
+    assembly-unit-name: ALT_REF_LOCI_17
+  - genbank-unit-id: GCA_000509995.1
+    refseq-unit-id: 	GCF_000509995.1	
+    assembly-unit-name: ALT_REF_LOCI_18
+  - genbank-unit-id: GCA_000510005.1
+    refseq-unit-id: 	GCF_000510005.1	
+    assembly-unit-name: ALT_REF_LOCI_19
+  - genbank-unit-id: GCA_000001325.2
+    refseq-unit-id: 	GCF_000001325.3	
+    assembly-unit-name: ALT_REF_LOCI_2
+  - genbank-unit-id: GCA_000510015.1
+    refseq-unit-id: 	GCF_000510015.1	
+    assembly-unit-name: ALT_REF_LOCI_20
+  - genbank-unit-id: GCA_000510025.1
+    refseq-unit-id: 	GCF_000510025.1	
+    assembly-unit-name: ALT_REF_LOCI_21
+  - genbank-unit-id: GCA_000510035.1
+    refseq-unit-id: 	GCF_000510035.1	
+    assembly-unit-name: ALT_REF_LOCI_22
+  - genbank-unit-id: GCA_000510045.1
+    refseq-unit-id: 	GCF_000510045.1	
+    assembly-unit-name: ALT_REF_LOCI_23
+  - genbank-unit-id: GCA_000510055.1
+    refseq-unit-id: 	GCF_000510055.1	
+    assembly-unit-name: ALT_REF_LOCI_24
+  - genbank-unit-id: GCA_000510065.1
+    refseq-unit-id: 	GCF_000510065.1	
+    assembly-unit-name: ALT_REF_LOCI_25
+  - genbank-unit-id: GCA_000510075.1
+    refseq-unit-id: 	GCF_000510075.1	
+    assembly-unit-name: ALT_REF_LOCI_26
+  - genbank-unit-id: GCA_000510085.1
+    refseq-unit-id: 	GCF_000510085.1	
+    assembly-unit-name: ALT_REF_LOCI_27
+  - genbank-unit-id: GCA_000510095.1
+    refseq-unit-id: 	GCF_000510095.1	
+    assembly-unit-name: ALT_REF_LOCI_28
+  - genbank-unit-id: GCA_000510105.1
+    refseq-unit-id: 	GCF_000510105.1	
+    assembly-unit-name: ALT_REF_LOCI_29
+  - genbank-unit-id: GCA_000001335.2
+    refseq-unit-id: 	GCF_000001335.2	
+    assembly-unit-name: ALT_REF_LOCI_3
+  - genbank-unit-id: GCA_000510125.1
+    refseq-unit-id: 	GCF_000510125.1	
+    assembly-unit-name: ALT_REF_LOCI_30
+  - genbank-unit-id: GCA_000510135.1
+    refseq-unit-id: 	GCF_000510135.1	
+    assembly-unit-name: ALT_REF_LOCI_31
+  - genbank-unit-id: GCA_000510145.1
+    refseq-unit-id: 	GCF_000510145.1	
+    assembly-unit-name: ALT_REF_LOCI_32
+  - genbank-unit-id: GCA_000510155.1
+    refseq-unit-id: 	GCF_000510155.1	
+    assembly-unit-name: ALT_REF_LOCI_33
+  - genbank-unit-id: GCA_000510165.1
+    refseq-unit-id: 	GCF_000510165.1	
+    assembly-unit-name: ALT_REF_LOCI_34
+  - genbank-unit-id: GCA_000510175.1
+    refseq-unit-id: 	GCF_000510175.1	
+    assembly-unit-name: ALT_REF_LOCI_35
+  - genbank-unit-id: GCA_000001345.2
+    refseq-unit-id: 	GCF_000001345.2	
+    assembly-unit-name: ALT_REF_LOCI_4
+  - genbank-unit-id: GCA_000001355.2
+    refseq-unit-id: 	GCF_000001355.2	
+    assembly-unit-name: ALT_REF_LOCI_5
+  - genbank-unit-id: GCA_000001365.2
+    refseq-unit-id: 	GCF_000001365.3	
+    assembly-unit-name: ALT_REF_LOCI_6
+  - genbank-unit-id: GCA_000001375.2
+    refseq-unit-id: 	GCF_000001375.2	
+    assembly-unit-name: ALT_REF_LOCI_7
+  - genbank-unit-id: GCA_000510225.1
+    refseq-unit-id: 	GCF_000510225.1	
+    assembly-unit-name: ALT_REF_LOCI_8
+  - genbank-unit-id: GCA_000510235.1
+    refseq-unit-id: 	GCF_000510235.1	
+    assembly-unit-name: ALT_REF_LOCI_9
