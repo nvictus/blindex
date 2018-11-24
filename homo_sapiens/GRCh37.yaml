@@ -16,7 +16,10 @@ refseq-assembly-and-genbank-assemblies-identical: yes
 assembly-units:
   - genbank-unit-id: GCA_000001305.1
     refseq-unit-id: GCF_000001305.13  
-    assembly-unit-name: Primary_Assembly
+    assembly-unit-name: primary
+  - genbank-unit-id: GCA_000006015.1
+    refseq-unit-id:  GCF_000006015.1
+    assembly-unit-name: non-nuclear
   - genbank-unit-id: GCA_000001315.1
     refseq-unit-id: GCF_000001315.1 
     assembly-unit-name: ALT_REF_LOCI_1

@@ -23,7 +23,7 @@ primary	assembled	chromosome	21	CM000683.1	NC_000021.8	48129895	21	chr21	chr21
 primary	assembled	chromosome	22	CM000684.1	NC_000022.10	51304566	22	chr22	chr22
 primary	assembled	chromosome	X	CM000685.1	NC_000023.10	155270560	X	chrX	chrX
 primary	assembled	chromosome	Y	CM000686.1	NC_000024.9	59373566	Y	chrY	chrY
-non-nuclear	assembled	mitochondrion	MT	J01415.2	NC_012920.1	16569	MT	chrM	chrM
+non-nuclear	assembled	mitochondrion	MT		NC_001807	16571	MT	chrM	chrM
 primary	unlocalized	chromosome	1	GL000191.1	NT_113878.1	106433	HSCHR1_RANDOM_CTG5	chr1_gl000191_random	GL000191.1
 primary	unlocalized	chromosome	1	GL000192.1	NT_167207.1	547496	HSCHR1_RANDOM_CTG12	chr1_gl000192_random	GL000192.1
 primary	unlocalized	chromosome	4	GL000193.1	NT_113885.1	189789	HSCHR4_RANDOM_CTG2	chr4_gl000193_random	GL000193.1
