@@ -1,0 +1,61 @@
+assembly-name:  MGSCv37
+organism-name:  Mus musculus # (house mouse)
+infraspecific-name:  strain=C57BL/6J
+taxid:          10090
+bioproject:     PRJNA169
+submitter:      Genome Reference Consortium
+date:           2010-9-23
+synonyms:       mm9 
+assembly-type:  haploid-with-alt-loci
+release-type:   major
+assembly-level: chromosome
+genome-representation: full
+genbank-assembly-id: GCA_000001635.1
+refseq-assembly-id: GCF_000001635.18
+refseq-assembly-and-genbank-assemblies-identical: yes
+assembly-units:
+  - genbank-unit-id: GCA_000000055.1
+    refseq-unit-id: GCF_000000055.16 
+    assembly-unit-name:  primary
+  - genbank-unit-id: GCA_000004175.1
+    refseq-unit-id: GCF_000004175.1 
+    assembly-unit-name: non-nuclear
+  - genbank-unit-id: GCA_000000415.1
+    refseq-unit-id: GCF_000000415.1 
+    assembly-unit-name: 129/J
+  - genbank-unit-id: GCA_000000435.1
+    refseq-unit-id: GCF_000000435.2 
+    assembly-unit-name: 129/Sv
+  - genbank-unit-id: GCA_000000395.1
+    refseq-unit-id: GCF_000000395.3 
+    assembly-unit-name: 129/SvEvTac
+  - genbank-unit-id: GCA_000000445.1
+    refseq-unit-id: GCF_000000445.2 
+    assembly-unit-name: 129/SvJ
+  - genbank-unit-id: GCA_000000495.1
+    refseq-unit-id: GCF_000000495.3 
+    assembly-unit-name: 129P2/OlaHsd
+  - genbank-unit-id: GCA_000000485.1
+    refseq-unit-id: GCF_000000485.2 
+    assembly-unit-name: 129S7/SvEv
+  - genbank-unit-id: GCA_000000325.1
+    refseq-unit-id: GCF_000000325.5 
+    assembly-unit-name: A/J
+  - genbank-unit-id: GCA_000000425.1
+    refseq-unit-id: GCF_000000425.1 
+    assembly-unit-name: AKR/J
+  - genbank-unit-id: GCA_000000335.1
+    refseq-unit-id: GCF_000000335.8 
+    assembly-unit-name: Balb/c
+  - genbank-unit-id: GCA_000000465.1
+    refseq-unit-id: GCF_000000465.2 
+    assembly-unit-name: Cast/Ei
+  - genbank-unit-id: GCA_000000355.1
+    refseq-unit-id: GCF_000000355.8 
+    assembly-unit-name: NOD
+  - genbank-unit-id: GCA_000000505.1
+    refseq-unit-id: GCF_000000505.1 
+    assembly-unit-name: Spret/Ei
+  - genbank-unit-id: GCA_000000385.1
+    refseq-unit-id: GCF_000000385.9 
+    assembly-unit-name: unknown-strain

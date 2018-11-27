@@ -1,0 +1,67 @@
+assembly-name: GRCm38
+description: Genome Reference Consortium Mouse Build 38
+organism-name: Mus musculus # (house mouse)
+infraspecific-name: strain=C57BL/6J
+taxid: 10090
+bioproject: PRJNA20689
+submitter: Genome Reference Consortium
+date: 2017-9-15
+assembly-type: haploid-with-alt-loci
+release-type: major
+assembly-level: chromosome
+genome-representation: full
+genbank-assembly-id: GCA_000001635.8
+refseq-assembly-id: GCF_000001635.26
+refseq-assembly-and-genbank-assemblies-identical: yes
+assembly-units:
+  - genbank-unit-id: GCA_000000055.2
+    refseq-unit-id: GCF_000000055.19  
+    assembly-unit-name: primary
+  - genbank-unit-id: GCA_000004175.1
+    refseq-unit-id: GCF_000004175.1 
+    assembly-unit-name: non-nuclear
+  - genbank-unit-id: GCA_000291555.6
+    refseq-unit-id: GCF_000291555.6 
+    assembly-unit-name: PATCHES
+  - genbank-unit-id: GCA_000000495.1
+    refseq-unit-id: GCF_000000495.3 
+    assembly-unit-name: 129P2/OlaHsd
+  - genbank-unit-id: GCA_000001665.1
+    refseq-unit-id: GCF_000001665.3 
+    assembly-unit-name: 129S1/SvImJ
+  - genbank-unit-id: GCA_000001675.1
+    refseq-unit-id: GCF_000001675.3 
+    assembly-unit-name: 129S2/SvPas
+  - genbank-unit-id: GCA_000000395.2
+    refseq-unit-id: GCF_000000395.5 
+    assembly-unit-name: 129S6/SvEvTac
+  - genbank-unit-id: GCA_000237955.1
+    refseq-unit-id: GCF_000237955.1 
+    assembly-unit-name: 129X1/SvJ
+  - genbank-unit-id: GCA_000000325.1
+    refseq-unit-id: GCF_000000325.5 
+    assembly-unit-name: A/J
+  - genbank-unit-id: GCA_000000425.1
+    refseq-unit-id: GCF_000000425.1 
+    assembly-unit-name: AKR/J
+  - genbank-unit-id: GCA_000000335.2
+    refseq-unit-id: GCF_000000335.9 
+    assembly-unit-name: BALB/c
+  - genbank-unit-id: GCA_000000465.2
+    refseq-unit-id: GCF_000000465.4 
+    assembly-unit-name: CAST/Ei
+  - genbank-unit-id: GCA_000001715.1
+    refseq-unit-id: GCF_000001715.3 
+    assembly-unit-name: NOD/MrkTac
+  - genbank-unit-id: GCA_000001705.1
+    refseq-unit-id: GCF_000001705.1 
+    assembly-unit-name: NOD/ShiLtJ
+  - genbank-unit-id: GCA_000001725.1
+    refseq-unit-id: GCF_000001725.3 
+    assembly-unit-name: RIII
+  - genbank-unit-id: GCA_000000385.2
+    refseq-unit-id: GCF_000000385.11  
+    assembly-unit-name: UNKNOWN
+  - genbank-unit-id: GCA_000001685.1
+    refseq-unit-id: GCF_000001685.3 
+    assembly-unit-name: 129S7/SvEvBrd-Hprt-b-m2

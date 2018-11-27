@@ -1,0 +1,36 @@
+role	unit	molecule	type	genbank_accession	refseq_accession	length	ncbi_name	ensembl_name	ucsc_name	gencode_name
+assembled	C57BL/6J	1	chromosome	CM000994.1	NC_000067.5	197195432	1	1	chr1	chr1
+assembled	C57BL/6J	2	chromosome	CM000995.1	NC_000068.6	181748087	2	2	chr2	chr2
+assembled	C57BL/6J	3	chromosome	CM000996.1	NC_000069.5	159599783	3	3	chr3	chr3
+assembled	C57BL/6J	4	chromosome	CM000997.1	NC_000070.5	155630120	4	4	chr4	chr4
+assembled	C57BL/6J	5	chromosome	CM000998.1	NC_000071.5	152537259	5	5	chr5	chr5
+assembled	C57BL/6J	6	chromosome	CM000999.1	NC_000072.5	149517037	6	6	chr6	chr6
+assembled	C57BL/6J	7	chromosome	CM001000.1	NC_000073.5	152524553	7	7	chr7	chr7
+assembled	C57BL/6J	8	chromosome	CM001001.1	NC_000074.5	131738871	8	8	chr8	chr8
+assembled	C57BL/6J	9	chromosome	CM001002.1	NC_000075.5	124076172	9	9	chr9	chr9
+assembled	C57BL/6J	10	chromosome	CM001003.1	NC_000076.5	129993255	10	10	chr10	chr10
+assembled	C57BL/6J	11	chromosome	CM001004.1	NC_000077.5	121843856	11	11	chr11	chr11
+assembled	C57BL/6J	12	chromosome	CM001005.1	NC_000078.5	121257530	12	12	chr12	chr12
+assembled	C57BL/6J	13	chromosome	CM001006.1	NC_000079.5	120284312	13	13	chr13	chr13
+assembled	C57BL/6J	14	chromosome	CM001007.1	NC_000080.5	125194864	14	14	chr14	chr14
+assembled	C57BL/6J	15	chromosome	CM001008.1	NC_000081.5	103494974	15	15	chr15	chr15
+assembled	C57BL/6J	16	chromosome	CM001009.1	NC_000082.5	98319150	16	16	chr16	chr16
+assembled	C57BL/6J	17	chromosome	CM001010.1	NC_000083.5	95272651	17	17	chr17	chr17
+assembled	C57BL/6J	18	chromosome	CM001011.1	NC_000084.5	90772031	18	18	chr18	chr18
+assembled	C57BL/6J	19	chromosome	CM001012.1	NC_000085.5	61342430	19	19	chr19	chr19
+assembled	C57BL/6J	X	chromosome	CM001013.1	NC_000086.6	166650296	X	X	chrX	chrX
+assembled	C57BL/6J	Y	chromosome	CM001014.1	NC_000087.6	15902555	Y	Y	chrY	chrY
+assembled	non-nuclear	MT	mitochondrion	AY172335.1	NC_005089.1	16299	MT	MT	chrM	chrM
+unlocalized		1	chromosome			1231697	1	1	chr1_random	chr1_random	
+unlocalized		3	chromosome			41899	3	3	chr3_random	chr3_random
+unlocalized		4	chromosome			160594	4	4	chr4_random	chr4_random
+unlocalized		5	chromosome			357350	5	5	chr5_random	chr5_random
+unlocalized		7	chromosome			362490	7	7	chr7_random	chr7_random
+unlocalized		8	chromosome			849593	8	8	chr8_random	chr8_random
+unlocalized		9	chromosome			449403	9	9	chr9_random	chr9_random
+unlocalized		13	chromosome			400311	13	13	chr13_random	chr13_random
+unlocalized		16	chromosome			3994	16	16	chr16_random	chr16_random
+unlocalized		17	chromosome			628739	17	17	chr17_random	chr17_random
+unlocalized		X	chromosome			1785075	X	X	chrX_random	chrX_random
+unlocalized		Y	chromosome			58682461	Y	Y	chrY_random	chrY_random
+unplaced			chromosome			5900358			chrUn_random	chrUn_random
