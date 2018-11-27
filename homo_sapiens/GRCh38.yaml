@@ -10,7 +10,7 @@ assembly-level: Chromosome
 genome-representation: full
 genbank-assembly-id: GCA_000001405.15 # (latest)
 refseq-assembly-id: GCF_000001405.26 # (species-representative latest)
-refaeq-assembly-and-genbank-assemblies-identical: yes
+refseq-assembly-and-genbank-assemblies-identical: yes
 assembly-units:
   - genbank-unit-id: GCA_000001305.2	
     refseq-unit-id: GCF_000001305.14	
